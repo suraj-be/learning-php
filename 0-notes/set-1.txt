@@ -1,0 +1,4 @@
+- php is a weakly typed language.
+- At the beginning, php stood for 'Personal Home Page', now it is stands for 'HyperText Preprocessor'
+- Along with reserved keywords, php also have reserved variables, most of them are used when dealing with forms.
+  - $_GET, $_POST, $_COOKIE, $_SERVER, $_FILES, $_ENV, $this.
