@@ -2,3 +2,10 @@
 - At the beginning, php stood for 'Personal Home Page', now it is stands for 'HyperText Preprocessor'
 - Along with reserved keywords, php also have reserved variables, most of them are used when dealing with forms.
   - $_GET, $_POST, $_COOKIE, $_SERVER, $_FILES, $_ENV, $this.
+- For string, it is strlen() and for arrays, it is count().
+- asort() is better than sort(), as it keeps the keys intact for associative arrays.  
+
+------------ If not found returns an empty string ------------
+- array_key_exists( 2 arguments )
+- in_array( 2 arguments )
+
